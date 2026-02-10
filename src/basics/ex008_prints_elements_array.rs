@@ -1,4 +1,4 @@
-fn main() {
+fn print_array_elements() {
     // Define an array containing some elements
     let array = [1, 2, 3, 4, 5];
 
