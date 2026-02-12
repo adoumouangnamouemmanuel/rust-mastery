@@ -4,6 +4,7 @@ struct Person {
     age: u32,
 }
 
+// main function
 fn main() {
     // Create a new instance of 'Person' struct
     let person1 = Person {
